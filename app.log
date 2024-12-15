@@ -1,0 +1,16 @@
+2024-12-16 00:35:20,289 - INFO - Application started.
+2024-12-16 00:35:20,291 - INFO - Extracting playlist data from Spotify.
+2024-12-16 00:35:21,624 - INFO - Successfully extracted playlist data.
+2024-12-16 00:35:21,625 - INFO - Processing data into DataFrames.
+2024-12-16 00:35:21,684 - INFO - Data processing completed successfully.
+2024-12-16 00:35:21,685 - INFO - Checking for duplicate records.
+2024-12-16 00:35:21,686 - INFO - No duplicate records found.
+2024-12-16 00:35:21,762 - INFO - Application completed successfully.
+2024-12-16 00:35:58,212 - INFO - Application started.
+2024-12-16 00:35:58,213 - INFO - Extracting playlist data from Spotify.
+2024-12-16 00:35:59,047 - INFO - Successfully extracted playlist data.
+2024-12-16 00:35:59,316 - INFO - Processing data into DataFrames.
+2024-12-16 00:35:59,331 - INFO - Data processing completed successfully.
+2024-12-16 00:35:59,331 - INFO - Checking for duplicate records.
+2024-12-16 00:35:59,332 - INFO - No duplicate records found.
+2024-12-16 00:35:59,381 - INFO - Application completed successfully.

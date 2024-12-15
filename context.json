@@ -1,0 +1,7 @@
+{
+    "song_df": "Songs",
+    "artist_df": "Artist",
+    "album_df": "Album",
+    "song_artist_df": "Song_Artist",
+    "song_artist_album_df": "Song_Info"
+  }
