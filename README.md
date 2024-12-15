@@ -1,6 +1,7 @@
 # 🎵 Spotify Playlist Data Pipeline 🎶
 
 This project extracts metadata from a Spotify playlist using the Spotify Web API, processes the data, and stores it into MongoDB collections. It identifies duplicate records and logs every step of the pipeline for enhanced monitoring and debugging.
+![image](https://github.com/user-attachments/assets/215159f2-af71-4158-9f91-c14827c9dc0c)
 
 ---
 
